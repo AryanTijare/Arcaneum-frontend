@@ -4,15 +4,6 @@
 <br>
 <p>Arcaneum is a web app that a university can use to host textbooks on their server and allow students to access them at any point of time. Students can then signup for the site and get access to notes and documents that other students have shared and can share their own documents.</p>
 
-<img src= "Images/Picture1.jpg" alt= "Demo-Image">
-<img src= "Images/Picture2.png" alt= "Demo-Image">
-<img src= "Images/Picture3.png" alt= "Demo-Image">
-<img src= "Images/Picture4.png" alt= "Demo-Image">
-<img src= "Images/Picture5.jpg" alt= "Demo-Image">
-<img src= "Images/Picture6.jpg" alt= "Demo-Image">
-<img src= "Images/Picture7.png" alt= "Demo-Image">
-
-
 [Arcaneum-backend](https://github.com/AryanTijare/Arcaneum-backend)
 <p>Libraries used: Frontend</p>
 <ul>ReactJs</ul>
